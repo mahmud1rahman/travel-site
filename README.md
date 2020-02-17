@@ -85,3 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Notes
 
 - rem relative to root/html 16px. font-size/padding/margin to use rem for good practice
+
+## Extras
+
+[vim ](https://www.vim.org/)
