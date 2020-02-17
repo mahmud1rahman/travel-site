@@ -15,6 +15,7 @@ What things you need to install the software and how to install them
 -npm packages
 -node modules
 -vs code
+
 ```
 
 ### Installing
@@ -51,6 +52,8 @@ Give an example
 
 Explain what these tests test and why
 
+-BEM= Block Element Modifier
+
 ```
 Give an example
 ```
@@ -78,3 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Brad Schiff
 - Inspiration(tp be updated )
 - etc
+
+## Notes
+
+- rem relative to root/html 16px. font-size/padding/margin to use rem for good practice
