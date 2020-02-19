@@ -87,15 +87,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 -To work with GIT:
 -Working on branch: git branch (name of the branch )
 -git checkout (to start on that branch ),
+-also u can do : git checkout -b (branch name )
 -to merge into master:
 -first follow the add/commit,
--then git checkout to Master 
+-then git checkout to Master
 -git merge (the branch name ).
-
-
-
-
-
 
 ## Notes
 
