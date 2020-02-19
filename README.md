@@ -82,6 +82,13 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Inspiration(tp be updated )
 - etc
 
+## Git/GitHub
+
+- to work with GIT:
+working on branch: git branch (name of the branch )
+git check out (to start on that branch ) 
+git 
+
 ## Notes
 
 - rem relative to root/html 16px. font-size/padding/margin to use rem for good practice
