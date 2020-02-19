@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - Brad Schiff
-- Inspiration(tp be updated )
+- Inspiration(to be updated )
 - etc
 
 ## Git/GitHub
