@@ -87,7 +87,15 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - to work with GIT:
 working on branch: git branch (name of the branch )
 git check out (to start on that branch ) 
-git 
+-to merge into master 
+first follow the add/commit,
+then git checkout to Master 
+git merge (the branch name )
+
+
+
+
+
 
 ## Notes
 
