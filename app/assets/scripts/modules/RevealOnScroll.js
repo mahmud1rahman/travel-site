@@ -1,5 +1,5 @@
 import throttle from "lodash/throttle";
-import debouce from "lodash/debounce";
+import debounce from "lodash/debounce";
 
 class RevealOnScroll {
   constructor(els, thresholdpPercent) {
@@ -14,8 +14,7 @@ class RevealOnScroll {
     window.addEventListener("scroll", this.scrollThrottle);
     window.addEventListener(
       "resize",
-      debouce(() => {
-        console.log("rezied run");
+      debounce(() => {
         this.browserHeight = window.innerHeight;
       }, 333)
     );
