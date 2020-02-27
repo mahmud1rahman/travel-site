@@ -1,6 +1,7 @@
-# Travel-site
+                        # Travel-site
 
-[Travel-Site](https://mahmud1rahman.github.io/travel-site/) - To see the  finished Project !
+[Travel-Site](https://mahmud1rahman.github.io/travel-site/) - To see the finished Project through GitHub page !
+[Travel-Site](https://rana-site-project.netlify.com/) - To see the finished Project on Netlify !
 
 ## Getting Started
 
@@ -102,8 +103,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 [vim ](https://www.vim.org/).This is such a great productivity tool to have !
 
 ## Notes/OOP in JavaScript!
+
 -A function that live inside an object is called a method.
+
 - this keyword refer to whichever object is currently being created !
--class to do with Constructor Function.
--also Class syntax to create an object
--inheritence to do with extends,class makes it easy to work with it.
+  -class to do with Constructor Function.
+  -also Class syntax to create an object
+  -inheritence to do with extends,class makes it easy to work with it.
