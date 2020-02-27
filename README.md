@@ -1,7 +1,8 @@
-                        # Travel-site
+# Travel-site
 
-[Travel-Site](https://mahmud1rahman.github.io/travel-site/) - To see the finished Project through GitHub page !
-[Travel-Site](https://rana-site-project.netlify.com/) - To see the finished Project on Netlify !
+- [Travel-Site](https://mahmud1rahman.github.io/travel-site/) - To see the finished Project through GitHub page !
+
+- [Travel-Site](https://rana-site-project.netlify.com/) - To see the finished Project on Netlify !
 
 ## Getting Started
 
