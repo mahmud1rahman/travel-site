@@ -66,9 +66,8 @@ Add additional notes about how to deploy this on a live system (to be updated)
 
 ## Built With
 
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency Management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+- [Netlify](https://app.netlify.com/) - Netlify
+- [GitHub](https://github.com/) - Used to Versioning and page hosting !
 
 ## Versioning
 
